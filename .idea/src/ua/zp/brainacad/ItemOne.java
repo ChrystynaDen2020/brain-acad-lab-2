@@ -1,7 +1,7 @@
 package ua.zp.brainacad;
 
 /**
- * 
+ *
  */
 
 public class ItemOne {
